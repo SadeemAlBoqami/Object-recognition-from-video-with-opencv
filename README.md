@@ -10,4 +10,4 @@ pip install ultralytics opencv-python
 
 2. after that open vs code from terminal by typing: code .
 3. open your project folder which contains the model code and video that will be tested.
-4. in same folder, create python file or download it (yolo_detect.py)
+4. in same folder, create python file or ![download it from here.] (yolo_detect.py)
