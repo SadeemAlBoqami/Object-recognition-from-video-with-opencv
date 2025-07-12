@@ -20,7 +20,7 @@ pip install ultralytics opencv-python
 ```python
      import cv2
      from ultralytics import YOLO
-     ```
+```
 
 2. Download the model: There are several versions of the YOLO model, multiple speeds and resolutions, I chose Nano, the lightweight version of the model, supporting more than 80 types of objects (people, cars, bicycles, etc.)
 ```python
