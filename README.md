@@ -8,7 +8,9 @@ This project uses the YOLOv8 Nano model integrated with OpenCV to detect multipl
 ```python pip install opencv-python
 pip install ultralytics opencv-python 
 ```
-2. After that open vs code from terminal by typing: ```python code .
+2. After that open vs code from terminal by typing:
+```python
+   code .
    ```
 3. Open your project folder which contains the model code and video that will be tested.
 4. In same folder, create python file or download it (yolo_detect.py).
