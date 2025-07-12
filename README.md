@@ -6,7 +6,7 @@ This project uses the YOLOv8 Nano model integrated with OpenCV to detect multipl
 ## Requirements
 1. From anaconda>>base>>open terminal install these packages:
 ```python pip install opencv-python
-pip install ultralytics opencv-python```
+pip install ultralytics opencv-python ```
 
 2. After that open vs code from terminal by typing: ```python code .```
 3. Open your project folder which contains the model code and video that will be tested.
