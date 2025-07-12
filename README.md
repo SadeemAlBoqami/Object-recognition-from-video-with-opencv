@@ -5,10 +5,10 @@ This project uses the YOLOv8 Nano model integrated with OpenCV to detect multipl
 
 ## Requirements
 1. From anaconda>>base>>open terminal install these packages:
-pip install opencv-python
-pip install ultralytics opencv-python
+```python pip install opencv-python
+pip install ultralytics opencv-python```
 
-2. After that open vs code from terminal by typing: code .
+2. After that open vs code from terminal by typing: ```python code .```
 3. Open your project folder which contains the model code and video that will be tested.
 4. In same folder, create python file or download it (yolo_detect.py).
 5. Running your code, the output will appear as a video after recognizing the elements, you will notice that there is a box around each element with its name whose elements have been recognized by the model.
