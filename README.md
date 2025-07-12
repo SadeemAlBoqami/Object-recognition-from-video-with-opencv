@@ -17,8 +17,8 @@ pip install ultralytics opencv-python
 1. Import libraries:
    - cv2 library from opencv to read video, view images and draw boxes.
    - Ultralytics.YOLO to download and run the YOLOv8 prototype.
-
-     ** import cv2 **
+```pyton
+     import cv2
      from ultralytics import YOLO
 
 2. Download the model: There are several versions of the YOLO model, multiple speeds and resolutions, I chose Nano, the lightweight version of the model, supporting more than 80 types of objects (people, cars, bicycles, etc.)
